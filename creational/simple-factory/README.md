@@ -1,6 +1,6 @@
 # Simple Factory Pattern
 
-The Simple Factory Pattern is a creational design pattern that provides a centralized mechanism for creating objects. It encapsulates the object creation process in a dedicated factory class, allowing clients to request objects without being exposed to the intricacies of instantiation.
+The Simple Factory Pattern is a creational design pattern that provides a centralized mechanism for creating objects. It encapsulates the object creation process in a dedicated factory class, allowing clients to request objects without being exposed to the intricacies of instantiation. This pattern enhances code abstraction, maintainability, and facilitates the seamless addition of new object types to the system.
 
 ## When to Use
 
