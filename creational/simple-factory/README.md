@@ -15,7 +15,7 @@ The Simple Factory Pattern is a creational design pattern that provides a centra
 
 ## Example
 
-In this folder, you can find code examples illustrating how to implement the Simple Factory Pattern in various scenarios.
+This code is under the [main.ts](./main.ts).
 
 ## Contributing
 
